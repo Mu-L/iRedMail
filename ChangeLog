@@ -1,5 +1,9 @@
 iRedMail-1.8.4:
 
+* Fixed issues:
+    - Incorrect sieve config for Dovecot 2.4 on Debian 13 and Ubuntu 26.04.
+      Thanks to b.cherrier@forum for the feedback.
+
 * Updated packages:
     + netdata v2.10.4
 
