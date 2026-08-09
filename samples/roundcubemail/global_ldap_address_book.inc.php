@@ -15,7 +15,7 @@ $config['ldap_public']["global_ldap_abook"] = array(
     'searchonly'    => false,
     'writable'      => false,
 
-    'search_fields' => array('mail', 'cn', 'sn', 'givenName', 'street', 'telephoneNumber', 'mobile', 'stree', 'postalCode'),
+    'search_fields' => array('mail', 'cn', 'sn', 'givenName', 'street', 'telephoneNumber', 'mobile', 'postalCode'),
 
     // mapping of contact fields to directory attributes
     'fieldmap' => array(
